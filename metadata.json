@@ -1,0 +1,6 @@
+{
+  "name": "Arena AI – FIFA Smart Stadium Intelligence Platform",
+  "description": "An AI-powered stadium ecosystem designed to improve the tournament experience for fans, organizers, volunteers, venue staff, broadcasters, and emergency responders at the FIFA World Cup 2026.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
