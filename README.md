@@ -1,10 +1,7 @@
 # Arena AI – FIFA Smart Stadium Intelligence Platform
 
-### 🏆 Google AI Studio × FIFA World Cup 2026 Challenge Entry
+### 🏆 Google PROMPT WARS × FIFA World Cup 2026 Challenge Entry
 
-<p align="center">
-  <img src="./assets/banner.png" alt="Arena AI Banner" width="100%">
-</p>
 
 <h1 align="center">🏟️ Arena AI</h1>
 
