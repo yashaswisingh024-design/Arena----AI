@@ -1,4 +1,22 @@
-# Arena AI – FIFA Smart Stadium Intelligence Platform
+<p align="center">
+  <img src="./assets/banner.png" alt="Arena AI Banner" width="100%">
+</p>
+
+<h1 align="center">🏟️ Arena AI</h1>
+
+<p align="center">
+AI-Powered Smart Stadium Intelligence Platform for the FIFA World Cup 2026
+</p>
+
+<p align="center">
+
+![React](https://img.shields.io/badge/React-19-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![Gemini](https://img.shields.io/badge/Google-Gemini_2.5_Flash-orange)
+![Vite](https://img.shields.io/badge/Vite-7-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+</p> # Arena AI – FIFA Smart Stadium Intelligence Platform
 ### Google AI Studio x FIFA World Cup 2026 Challenge Entry
 
 Arena AI is an enterprise-grade, world-class, full-stack smart stadium intelligence solution designed to revolutionize the tournament experience at the **FIFA World Cup 2026**. Utilizing the power of **Google Gemini 2.5 Flash**, the platform connects fans, venue staff, active volunteers, and command centers through a single unified pane of glass.
