@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Arena AI Banner" width="100%">
-</p>
+🌐 Live Website:
+https://arenaaai.netlify.app
+
+💻 GitHub Repository:
+https://github.com/yashaswisingh024-design/Arena----AI
 
 <h1 align="center">🏟️ Arena AI</h1>
 
