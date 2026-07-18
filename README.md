@@ -396,7 +396,7 @@ Arena AI directly addresses the **Google AI Studio × FIFA World Cup 2026 Challe
 
 Computer Engineering Student
 
-Built for the **Google AI Studio × FIFA World Cup 2026 Challenge**
+Built for the **Google Prompt Wars × FIFA World Cup 2026 Challenge**
 
 GitHub:
 https://github.com/yashaswisingh024-design
